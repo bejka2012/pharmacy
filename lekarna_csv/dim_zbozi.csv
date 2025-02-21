@@ -1,0 +1,1001 @@
+﻿ID_zbozi,Nazev,Vyrobce,SUKL_cislo,Kategorie,Segment
+1,Neo-angin 214mg,Zentiva,877572,Antihistaminika,Alergie
+2,Calcium 854mg,Teva,809571,Antitusika,Imunita
+3,Ibalgin 130mg,Teva,329258,Analgetika,Alergie
+4,Orofar 765mg,Roche,539898,Antiseptika,Dýchací cesty
+5,Vitamin D 990mg,Zentiva,895667,Mukolytika,Vitamíny
+6,Coldrex 259mg,Krka,900582,Antitusika,Kašel
+7,Mucosolvan 199mg,Bayer,988663,Vitamíny,Bolest
+8,Magne B6 570mg,Roche,230890,Antitusika,Dýchací cesty
+9,B-komplex 743mg,Novartis,479202,Antihistaminika,Kašel
+10,Ibalgin 777mg,Krka,910620,Antitusika,Alergie
+11,Zodac 203mg,Sanofi,391477,Dekongestiva,Horečka
+12,Ambrobene 463mg,Krka,802729,Antitusika,Horečka
+13,Sanorin 846mg,Krka,271340,Mukolytika,Dýchací cesty
+14,Claritin 755mg,Roche,330284,Dekongestiva,Bolest
+15,Nurofen 941mg,Zentiva,944152,Mukolytika,Dýchací cesty
+16,Stoptusin 316mg,Novartis,852788,Antihistaminika,Nosní obtíže
+17,Mucosolvan 758mg,GSK,249811,Antipyretika,Alergie
+18,Magne B6 674mg,Roche,375505,Mukolytika,Imunita
+19,Ambrobene 324mg,Sandoz,634278,Antitusika,Bolest
+20,Zodac 212mg,Sandoz,757924,Mukolytika,Kašel
+21,Mucosolvan 490mg,Novartis,590786,Vitamíny,Bolest
+22,Tantum Verde 838mg,Teva,814826,Vitamíny,Vitamíny
+23,Levopront 400mg,Sanofi,265841,Analgetika,Dýchací cesty
+24,Nasivin 880mg,Sandoz,632342,Vitamíny,Alergie
+25,Calcium 482mg,Sandoz,665580,Analgetika,Vitamíny
+26,Olynth 119mg,Teva,480612,Antihistaminika,Bolest
+27,Nurofen 999mg,Novartis,182582,Antiseptika,Kašel
+28,Celaskon 645mg,Sandoz,234629,Antiseptika,Horečka
+29,Coldrex 640mg,Novartis,543692,Antihistaminika,Dýchací cesty
+30,Mucosolvan 787mg,Bayer,559382,Antiseptika,Kašel
+31,Nurofen 330mg,Teva,454508,Antihistaminika,Alergie
+32,Paralen 172mg,Zentiva,340062,Analgetika,Vitamíny
+33,Stoptusin 626mg,Krka,392005,Antiseptika,Alergie
+34,Sanorin 235mg,Novartis,704202,Antihistaminika,Nosní obtíže
+35,Vitamin D 516mg,Krka,198907,Mukolytika,Vitamíny
+36,Hedelix 520mg,GSK,864491,Antitusika,Bolest
+37,Mucosolvan 845mg,Bayer,939482,Antihistaminika,Alergie
+38,Panadol 649mg,GSK,246992,Antipyretika,Dýchací cesty
+39,Prospan 355mg,Teva,564657,Antitusika,Bolest
+40,Neo-angin 653mg,Zentiva,197793,Antipyretika,Imunita
+41,Olynth 592mg,Krka,520521,Antipyretika,Imunita
+42,Paralen 499mg,Pfizer,922158,Vitamíny,Imunita
+43,Orofar 848mg,Roche,794023,Antipyretika,Alergie
+44,Theraflu 322mg,Zentiva,707315,Analgetika,Vitamíny
+45,Ibalgin 151mg,Novartis,599949,Antipyretika,Bolest
+46,Nasivin 182mg,Sandoz,171850,Antitusika,Alergie
+47,Mucosolvan 222mg,Novartis,358176,Analgetika,Kašel
+48,Hedelix 773mg,Novartis,692684,Dekongestiva,Dýchací cesty
+49,Panadol 785mg,Bayer,350280,Mukolytika,Horečka
+50,Tantum Verde 760mg,Pfizer,579435,Antitusika,Bolest
+51,Prospan 736mg,Novartis,204837,Antihistaminika,Dýchací cesty
+52,Calcium 457mg,Teva,356151,Vitamíny,Horečka
+53,Prospan 953mg,Roche,837715,Analgetika,Dýchací cesty
+54,Claritin 779mg,Teva,240814,Antitusika,Kašel
+55,Magne B6 666mg,Sandoz,385577,Antihistaminika,Vitamíny
+56,Panadol 803mg,Pfizer,629960,Vitamíny,Bolest
+57,Stoptusin 749mg,Sanofi,969634,Analgetika,Bolest
+58,ACC Long 889mg,Sandoz,768061,Antipyretika,Nosní obtíže
+59,Sanorin 822mg,Sanofi,688153,Antitusika,Kašel
+60,Zyrtec 807mg,Sandoz,672092,Dekongestiva,Horečka
+61,Hedelix 230mg,Zentiva,423233,Analgetika,Vitamíny
+62,Panadol 798mg,Krka,799330,Dekongestiva,Imunita
+63,Strepsils 867mg,Sandoz,348237,Antipyretika,Imunita
+64,Paralen 283mg,Bayer,920392,Antihistaminika,Dýchací cesty
+65,Aspirin 906mg,Teva,501124,Antiseptika,Alergie
+66,Panadol 936mg,GSK,466643,Antihistaminika,Alergie
+67,Paralen 775mg,Krka,517822,Vitamíny,Kašel
+68,Celaskon 385mg,Bayer,772643,Mukolytika,Vitamíny
+69,Paralen 218mg,Pfizer,287242,Vitamíny,Bolest
+70,Levopront 710mg,Sanofi,462480,Mukolytika,Kašel
+71,Mucosolvan 690mg,Krka,367095,Mukolytika,Bolest
+72,Nasivin 925mg,Roche,820222,Antihistaminika,Vitamíny
+73,Hedelix 171mg,Bayer,753426,Antitusika,Dýchací cesty
+74,Nasivin 416mg,Sanofi,442028,Vitamíny,Horečka
+75,Panadol 530mg,Sanofi,810219,Vitamíny,Imunita
+76,Sanorin 953mg,Zentiva,418635,Antihistaminika,Imunita
+77,Vitamin D 693mg,Novartis,786509,Antiseptika,Nosní obtíže
+78,Prospan 791mg,Krka,636005,Antipyretika,Kašel
+79,Theraflu 627mg,Novartis,451470,Antihistaminika,Dýchací cesty
+80,Nurofen 925mg,Krka,254511,Analgetika,Alergie
+81,Olynth 725mg,Teva,577539,Antihistaminika,Imunita
+82,Olynth 509mg,Krka,254740,Analgetika,Kašel
+83,Celaskon 535mg,Krka,284431,Antiseptika,Bolest
+84,Sanorin 355mg,Teva,578634,Antiseptika,Vitamíny
+85,Celaskon 553mg,Novartis,954597,Mukolytika,Nosní obtíže
+86,Zyrtec 262mg,GSK,571932,Antihistaminika,Dýchací cesty
+87,Celaskon 896mg,Roche,608137,Antihistaminika,Dýchací cesty
+88,Prospan 179mg,Pfizer,345884,Dekongestiva,Vitamíny
+89,Zyrtec 653mg,Teva,245095,Antihistaminika,Imunita
+90,Orofar 256mg,Krka,167349,Mukolytika,Vitamíny
+91,Sanorin 577mg,Sanofi,165290,Mukolytika,Imunita
+92,Zyrtec 888mg,Novartis,829308,Mukolytika,Nosní obtíže
+93,Paralen 460mg,Pfizer,890076,Mukolytika,Alergie
+94,Olynth 324mg,Pfizer,557008,Analgetika,Imunita
+95,ACC Long 784mg,Sanofi,859359,Antiseptika,Horečka
+96,Strepsils 646mg,Zentiva,513161,Analgetika,Kašel
+97,Neo-angin 538mg,Sandoz,584125,Analgetika,Dýchací cesty
+98,Mucosolvan 435mg,Krka,576787,Dekongestiva,Imunita
+99,Coldrex 870mg,Sanofi,364525,Antiseptika,Bolest
+100,Magne B6 652mg,Zentiva,466960,Antitusika,Bolest
+101,Celaskon 131mg,Krka,309044,Antipyretika,Alergie
+102,Calcium 584mg,Teva,691364,Antiseptika,Dýchací cesty
+103,Celaskon 477mg,Sandoz,735325,Antitusika,Horečka
+104,Theraflu 210mg,Novartis,126925,Mukolytika,Imunita
+105,Orofar 303mg,Teva,720860,Antihistaminika,Kašel
+106,Orofar 891mg,Pfizer,991598,Antitusika,Bolest
+107,Ambrobene 645mg,Sanofi,793656,Antitusika,Vitamíny
+108,Paralen 969mg,Sanofi,962277,Antitusika,Imunita
+109,Ambrobene 750mg,GSK,841666,Mukolytika,Horečka
+110,Magne B6 634mg,Pfizer,745831,Antiseptika,Nosní obtíže
+111,Hedelix 945mg,Novartis,381434,Antihistaminika,Kašel
+112,Coldrex 561mg,Krka,886932,Mukolytika,Vitamíny
+113,Paralen 606mg,Bayer,290673,Antihistaminika,Vitamíny
+114,Vitamin D 364mg,Bayer,393244,Vitamíny,Bolest
+115,Nasivin 295mg,Teva,353081,Antiseptika,Alergie
+116,Orofar 587mg,GSK,569945,Antitusika,Dýchací cesty
+117,Nurofen 514mg,Krka,421081,Dekongestiva,Nosní obtíže
+118,Sanorin 643mg,Bayer,546174,Dekongestiva,Vitamíny
+119,Orofar 564mg,Pfizer,421517,Antihistaminika,Kašel
+120,Magne B6 297mg,Bayer,225363,Antipyretika,Alergie
+121,Panadol 856mg,GSK,389931,Vitamíny,Kašel
+122,B-komplex 298mg,Pfizer,338534,Antipyretika,Dýchací cesty
+123,Paralen 825mg,Roche,232731,Analgetika,Bolest
+124,Sanorin 399mg,Sandoz,768855,Antitusika,Bolest
+125,Septolete 391mg,GSK,601969,Dekongestiva,Horečka
+126,Ibalgin 358mg,GSK,219629,Mukolytika,Nosní obtíže
+127,Stoptusin 690mg,Zentiva,259097,Vitamíny,Kašel
+128,Nurofen 221mg,Roche,901578,Antihistaminika,Imunita
+129,Prospan 553mg,Pfizer,717114,Vitamíny,Bolest
+130,Strepsils 857mg,Teva,899787,Antihistaminika,Dýchací cesty
+131,Tantum Verde 183mg,Sandoz,351516,Antitusika,Horečka
+132,Paralen 518mg,GSK,822859,Antiseptika,Dýchací cesty
+133,Ibalgin 337mg,Pfizer,841296,Antiseptika,Kašel
+134,Tantum Verde 339mg,Pfizer,926098,Antihistaminika,Imunita
+135,Levopront 657mg,Krka,779094,Vitamíny,Horečka
+136,Stoptusin 161mg,Sandoz,931131,Vitamíny,Nosní obtíže
+137,Levopront 579mg,Pfizer,833724,Vitamíny,Nosní obtíže
+138,Prospan 182mg,Novartis,141798,Dekongestiva,Dýchací cesty
+139,Paralen 193mg,Krka,807054,Analgetika,Dýchací cesty
+140,Septolete 141mg,Sandoz,593356,Antiseptika,Dýchací cesty
+141,Aspirin 699mg,Sanofi,765621,Antitusika,Nosní obtíže
+142,Ambrobene 518mg,Bayer,436654,Antitusika,Horečka
+143,ACC Long 521mg,GSK,402219,Mukolytika,Bolest
+144,Prospan 190mg,Bayer,364660,Antitusika,Imunita
+145,Zodac 626mg,Zentiva,789607,Antiseptika,Imunita
+146,Ibalgin 292mg,Roche,479354,Antiseptika,Nosní obtíže
+147,Celaskon 152mg,Krka,380029,Antipyretika,Dýchací cesty
+148,Prospan 815mg,GSK,227324,Antihistaminika,Horečka
+149,Theraflu 664mg,Zentiva,679078,Antitusika,Alergie
+150,B-komplex 216mg,GSK,223173,Antipyretika,Nosní obtíže
+151,Claritin 833mg,Pfizer,633590,Mukolytika,Nosní obtíže
+152,Olynth 349mg,GSK,678043,Mukolytika,Alergie
+153,Claritin 713mg,Roche,882544,Antitusika,Dýchací cesty
+154,Celaskon 908mg,Sanofi,456386,Vitamíny,Bolest
+155,Theraflu 843mg,Pfizer,978158,Antiseptika,Horečka
+156,Prospan 651mg,GSK,461889,Mukolytika,Nosní obtíže
+157,Claritin 429mg,Krka,831380,Mukolytika,Alergie
+158,Zodac 894mg,Sanofi,145768,Antiseptika,Imunita
+159,Mucosolvan 779mg,Sandoz,619389,Antipyretika,Vitamíny
+160,Zodac 202mg,GSK,204556,Antiseptika,Bolest
+161,Magne B6 247mg,Sanofi,786587,Antitusika,Nosní obtíže
+162,Vitamin D 371mg,Bayer,753535,Mukolytika,Kašel
+163,Zodac 436mg,Roche,498469,Antiseptika,Bolest
+164,Strepsils 170mg,Krka,761821,Vitamíny,Alergie
+165,Magne B6 192mg,Sanofi,203226,Antitusika,Nosní obtíže
+166,Aspirin 810mg,Pfizer,130353,Dekongestiva,Bolest
+167,Theraflu 467mg,Bayer,551607,Antihistaminika,Imunita
+168,Septolete 798mg,Sandoz,278240,Antitusika,Imunita
+169,Strepsils 799mg,Krka,621842,Antipyretika,Alergie
+170,Prospan 753mg,Pfizer,581894,Analgetika,Nosní obtíže
+171,Zyrtec 394mg,Roche,265649,Antiseptika,Vitamíny
+172,Septolete 406mg,Sanofi,823846,Antiseptika,Dýchací cesty
+173,Panadol 493mg,GSK,211834,Mukolytika,Vitamíny
+174,Septolete 402mg,Pfizer,123006,Mukolytika,Dýchací cesty
+175,Paralen 679mg,Zentiva,735864,Vitamíny,Alergie
+176,Strepsils 921mg,Bayer,329643,Antihistaminika,Dýchací cesty
+177,Tantum Verde 873mg,Sandoz,758765,Analgetika,Dýchací cesty
+178,Vitamin D 551mg,Zentiva,707728,Antipyretika,Kašel
+179,Claritin 402mg,Bayer,883791,Antipyretika,Alergie
+180,Calcium 905mg,Roche,483630,Vitamíny,Horečka
+181,Coldrex 944mg,GSK,945664,Dekongestiva,Kašel
+182,Prospan 177mg,Sandoz,890785,Mukolytika,Vitamíny
+183,Stoptusin 909mg,Sanofi,114594,Antitusika,Nosní obtíže
+184,Ambrobene 788mg,Pfizer,712956,Dekongestiva,Kašel
+185,Tantum Verde 339mg,GSK,126241,Dekongestiva,Alergie
+186,Neo-angin 164mg,GSK,835132,Mukolytika,Kašel
+187,Calcium 146mg,Zentiva,419150,Antitusika,Kašel
+188,Nurofen 650mg,Sandoz,507525,Dekongestiva,Imunita
+189,Septolete 860mg,Sandoz,535038,Antitusika,Nosní obtíže
+190,Strepsils 517mg,Pfizer,134306,Dekongestiva,Alergie
+191,Prospan 555mg,Krka,997005,Antitusika,Vitamíny
+192,Sanorin 760mg,Bayer,163492,Vitamíny,Alergie
+193,Levopront 968mg,GSK,196127,Antihistaminika,Bolest
+194,Ibalgin 905mg,Bayer,355400,Antihistaminika,Kašel
+195,B-komplex 883mg,Roche,317221,Antihistaminika,Alergie
+196,ACC Long 892mg,Sandoz,926953,Analgetika,Dýchací cesty
+197,Zodac 248mg,Sandoz,666456,Antipyretika,Kašel
+198,Tantum Verde 987mg,Zentiva,238205,Dekongestiva,Alergie
+199,Septolete 431mg,Zentiva,282710,Analgetika,Horečka
+200,Magne B6 531mg,Roche,219169,Antiseptika,Nosní obtíže
+201,Celaskon 470mg,Roche,722503,Antiseptika,Alergie
+202,Strepsils 144mg,Roche,416283,Analgetika,Bolest
+203,Olynth 967mg,Sanofi,546981,Antitusika,Nosní obtíže
+204,Orofar 554mg,Teva,184715,Antipyretika,Kašel
+205,Calcium 381mg,Novartis,763830,Dekongestiva,Imunita
+206,Strepsils 643mg,Pfizer,575756,Mukolytika,Kašel
+207,Vitamin D 818mg,Teva,994218,Antihistaminika,Imunita
+208,Prospan 333mg,Sanofi,455396,Mukolytika,Imunita
+209,Magne B6 197mg,Bayer,547495,Vitamíny,Vitamíny
+210,Calcium 803mg,GSK,170394,Antitusika,Kašel
+211,Hedelix 198mg,Bayer,951201,Analgetika,Vitamíny
+212,Tantum Verde 225mg,Sanofi,470775,Mukolytika,Bolest
+213,Theraflu 714mg,Pfizer,468727,Antihistaminika,Horečka
+214,Tantum Verde 593mg,Krka,988432,Dekongestiva,Vitamíny
+215,Levopront 880mg,Pfizer,701987,Mukolytika,Bolest
+216,Strepsils 773mg,Pfizer,130359,Vitamíny,Dýchací cesty
+217,Claritin 447mg,Bayer,106402,Antipyretika,Imunita
+218,Stoptusin 245mg,Zentiva,196215,Antihistaminika,Imunita
+219,Hedelix 564mg,Bayer,265056,Vitamíny,Vitamíny
+220,Celaskon 681mg,Novartis,189083,Antipyretika,Horečka
+221,Celaskon 732mg,Zentiva,806707,Vitamíny,Nosní obtíže
+222,Tantum Verde 534mg,GSK,736566,Mukolytika,Dýchací cesty
+223,Panadol 873mg,Roche,219347,Mukolytika,Kašel
+224,Theraflu 794mg,Novartis,610272,Vitamíny,Bolest
+225,Nurofen 504mg,Novartis,157443,Antihistaminika,Dýchací cesty
+226,Panadol 885mg,Sandoz,901280,Vitamíny,Vitamíny
+227,Levopront 107mg,GSK,883302,Antipyretika,Horečka
+228,Mucosolvan 645mg,Krka,624564,Dekongestiva,Kašel
+229,Mucosolvan 982mg,Zentiva,557409,Antiseptika,Kašel
+230,Zodac 420mg,Novartis,550138,Mukolytika,Imunita
+231,Theraflu 217mg,Sanofi,121870,Antipyretika,Nosní obtíže
+232,B-komplex 806mg,Bayer,192411,Antitusika,Alergie
+233,Hedelix 703mg,Sanofi,649414,Mukolytika,Dýchací cesty
+234,Magne B6 447mg,Krka,449247,Antitusika,Kašel
+235,Nasivin 622mg,Krka,913935,Dekongestiva,Horečka
+236,Nurofen 205mg,Sandoz,368402,Antipyretika,Horečka
+237,Celaskon 877mg,Teva,285752,Antiseptika,Nosní obtíže
+238,Celaskon 677mg,Novartis,570712,Dekongestiva,Vitamíny
+239,Calcium 550mg,Teva,591700,Vitamíny,Dýchací cesty
+240,Septolete 157mg,Bayer,631981,Vitamíny,Nosní obtíže
+241,Prospan 138mg,Zentiva,486649,Antitusika,Kašel
+242,Strepsils 708mg,Roche,503160,Analgetika,Nosní obtíže
+243,Claritin 929mg,Novartis,783501,Dekongestiva,Nosní obtíže
+244,Nasivin 254mg,Zentiva,572407,Dekongestiva,Kašel
+245,Nasivin 761mg,Sandoz,141043,Antiseptika,Nosní obtíže
+246,Nasivin 635mg,Novartis,266458,Dekongestiva,Dýchací cesty
+247,Mucosolvan 518mg,Bayer,811876,Analgetika,Vitamíny
+248,Stoptusin 437mg,Teva,685067,Mukolytika,Dýchací cesty
+249,Coldrex 841mg,Novartis,257678,Antitusika,Horečka
+250,Claritin 458mg,Pfizer,787924,Mukolytika,Horečka
+251,Strepsils 825mg,Teva,424621,Mukolytika,Vitamíny
+252,B-komplex 230mg,Roche,197993,Mukolytika,Vitamíny
+253,Paralen 471mg,Pfizer,289019,Dekongestiva,Nosní obtíže
+254,Panadol 331mg,Sandoz,262471,Vitamíny,Kašel
+255,Nasivin 889mg,Roche,975687,Analgetika,Vitamíny
+256,Zyrtec 884mg,Novartis,237415,Mukolytika,Horečka
+257,Aspirin 285mg,Novartis,948343,Antiseptika,Bolest
+258,Hedelix 473mg,Krka,565777,Vitamíny,Nosní obtíže
+259,Nurofen 646mg,Krka,424501,Antihistaminika,Vitamíny
+260,Tantum Verde 684mg,GSK,584106,Mukolytika,Imunita
+261,Aspirin 936mg,Krka,940182,Antipyretika,Dýchací cesty
+262,Ibalgin 756mg,GSK,489245,Antitusika,Kašel
+263,Theraflu 185mg,Sandoz,386043,Antipyretika,Imunita
+264,Stoptusin 327mg,GSK,466566,Mukolytika,Bolest
+265,Mucosolvan 614mg,Bayer,347232,Antitusika,Vitamíny
+266,Nurofen 128mg,Bayer,203897,Dekongestiva,Horečka
+267,Calcium 139mg,Pfizer,970069,Antipyretika,Nosní obtíže
+268,Prospan 730mg,Zentiva,183074,Vitamíny,Alergie
+269,B-komplex 253mg,Roche,862561,Mukolytika,Kašel
+270,Celaskon 395mg,Krka,415779,Analgetika,Alergie
+271,Hedelix 754mg,Novartis,579318,Antitusika,Nosní obtíže
+272,Strepsils 648mg,Zentiva,762653,Antihistaminika,Horečka
+273,Theraflu 539mg,Zentiva,744675,Antihistaminika,Imunita
+274,Aspirin 780mg,Teva,648914,Antitusika,Bolest
+275,Mucosolvan 994mg,GSK,145650,Mukolytika,Vitamíny
+276,Coldrex 865mg,Zentiva,474440,Dekongestiva,Alergie
+277,Magne B6 772mg,Teva,908978,Dekongestiva,Horečka
+278,Ibalgin 460mg,Roche,454993,Antipyretika,Nosní obtíže
+279,Orofar 590mg,Sandoz,950916,Antitusika,Nosní obtíže
+280,Ibalgin 400mg,Krka,145934,Analgetika,Vitamíny
+281,Claritin 417mg,Roche,517569,Antiseptika,Dýchací cesty
+282,Ibalgin 871mg,Krka,400010,Analgetika,Vitamíny
+283,Coldrex 227mg,Bayer,558177,Antiseptika,Imunita
+284,ACC Long 291mg,GSK,825687,Dekongestiva,Dýchací cesty
+285,Vitamin D 184mg,Sanofi,182761,Antipyretika,Dýchací cesty
+286,ACC Long 205mg,Teva,443849,Vitamíny,Dýchací cesty
+287,Prospan 717mg,Sanofi,274740,Antiseptika,Vitamíny
+288,Prospan 143mg,Bayer,744719,Vitamíny,Bolest
+289,Stoptusin 787mg,Sanofi,480960,Antipyretika,Bolest
+290,Calcium 969mg,Novartis,811028,Analgetika,Horečka
+291,Stoptusin 341mg,Bayer,479743,Analgetika,Horečka
+292,Tantum Verde 560mg,Bayer,490085,Antitusika,Horečka
+293,Nasivin 475mg,Sanofi,429658,Vitamíny,Alergie
+294,Levopront 126mg,Sandoz,623286,Mukolytika,Kašel
+295,Coldrex 893mg,Pfizer,838238,Antihistaminika,Dýchací cesty
+296,Orofar 602mg,Krka,228594,Antitusika,Nosní obtíže
+297,Aspirin 830mg,GSK,192056,Dekongestiva,Vitamíny
+298,Orofar 166mg,Roche,668507,Vitamíny,Horečka
+299,Orofar 826mg,Sandoz,932251,Antihistaminika,Kašel
+300,Panadol 911mg,Sandoz,348236,Analgetika,Vitamíny
+301,Sanorin 686mg,Bayer,590111,Antipyretika,Kašel
+302,Stoptusin 416mg,Sanofi,851760,Mukolytika,Imunita
+303,B-komplex 688mg,Teva,231415,Antitusika,Nosní obtíže
+304,Prospan 796mg,Roche,461249,Antipyretika,Horečka
+305,Hedelix 614mg,Zentiva,971776,Antipyretika,Dýchací cesty
+306,Aspirin 265mg,Bayer,843788,Dekongestiva,Dýchací cesty
+307,Zodac 180mg,Pfizer,305838,Vitamíny,Horečka
+308,Neo-angin 410mg,Novartis,659392,Antipyretika,Horečka
+309,Aspirin 774mg,Novartis,855639,Dekongestiva,Bolest
+310,B-komplex 984mg,Zentiva,185168,Vitamíny,Alergie
+311,Celaskon 685mg,Sanofi,748134,Analgetika,Nosní obtíže
+312,Zyrtec 742mg,Roche,403743,Vitamíny,Nosní obtíže
+313,Nurofen 924mg,Sanofi,411883,Antitusika,Bolest
+314,Aspirin 550mg,Sanofi,607775,Antihistaminika,Vitamíny
+315,Strepsils 247mg,Bayer,853259,Dekongestiva,Imunita
+316,Calcium 878mg,Bayer,639996,Antitusika,Vitamíny
+317,Nurofen 577mg,Teva,380465,Antihistaminika,Horečka
+318,Levopront 151mg,Pfizer,502811,Mukolytika,Alergie
+319,Zodac 263mg,Bayer,705749,Antihistaminika,Horečka
+320,Olynth 627mg,GSK,622987,Antiseptika,Bolest
+321,Stoptusin 502mg,Roche,579441,Antihistaminika,Vitamíny
+322,Ibalgin 151mg,Pfizer,618935,Antiseptika,Dýchací cesty
+323,Sanorin 108mg,Teva,551860,Vitamíny,Vitamíny
+324,Celaskon 512mg,Bayer,147441,Analgetika,Alergie
+325,Ambrobene 666mg,Pfizer,177104,Antiseptika,Dýchací cesty
+326,B-komplex 738mg,Novartis,224582,Antitusika,Imunita
+327,Ambrobene 913mg,Bayer,684930,Antipyretika,Alergie
+328,Strepsils 621mg,Sanofi,624369,Analgetika,Bolest
+329,Calcium 830mg,Bayer,943020,Antiseptika,Horečka
+330,Strepsils 627mg,Sandoz,443898,Dekongestiva,Horečka
+331,Mucosolvan 731mg,Pfizer,722566,Antiseptika,Dýchací cesty
+332,Olynth 935mg,Zentiva,486252,Antitusika,Imunita
+333,Septolete 415mg,Zentiva,725906,Vitamíny,Alergie
+334,Magne B6 152mg,Novartis,603787,Mukolytika,Horečka
+335,B-komplex 797mg,Krka,133105,Antitusika,Alergie
+336,Paralen 551mg,Bayer,539122,Mukolytika,Alergie
+337,Hedelix 613mg,Novartis,594514,Antipyretika,Alergie
+338,Sanorin 432mg,GSK,651003,Dekongestiva,Horečka
+339,Prospan 645mg,Bayer,672809,Vitamíny,Nosní obtíže
+340,Panadol 352mg,Pfizer,685196,Antihistaminika,Dýchací cesty
+341,Celaskon 395mg,Krka,823770,Dekongestiva,Nosní obtíže
+342,Ambrobene 673mg,Pfizer,401769,Mukolytika,Imunita
+343,B-komplex 453mg,Sandoz,404561,Vitamíny,Kašel
+344,Ambrobene 552mg,Pfizer,883642,Antihistaminika,Alergie
+345,B-komplex 651mg,Pfizer,689319,Vitamíny,Horečka
+346,Levopront 730mg,Novartis,350905,Analgetika,Alergie
+347,Neo-angin 338mg,Zentiva,205066,Dekongestiva,Nosní obtíže
+348,Levopront 797mg,Sandoz,105434,Antipyretika,Imunita
+349,Neo-angin 999mg,GSK,600642,Antihistaminika,Dýchací cesty
+350,ACC Long 392mg,Zentiva,906066,Antihistaminika,Bolest
+351,Claritin 279mg,Sanofi,978292,Analgetika,Imunita
+352,Vitamin D 607mg,Sandoz,885386,Analgetika,Bolest
+353,Theraflu 681mg,Novartis,212513,Vitamíny,Nosní obtíže
+354,Neo-angin 656mg,Roche,617904,Antiseptika,Dýchací cesty
+355,Panadol 928mg,Teva,446747,Antiseptika,Dýchací cesty
+356,Orofar 290mg,Zentiva,872400,Vitamíny,Alergie
+357,Aspirin 725mg,Sanofi,967162,Dekongestiva,Kašel
+358,Mucosolvan 785mg,Teva,293757,Antiseptika,Vitamíny
+359,Claritin 354mg,Zentiva,373454,Antihistaminika,Nosní obtíže
+360,Celaskon 373mg,Bayer,416614,Analgetika,Dýchací cesty
+361,Neo-angin 468mg,Krka,165143,Antitusika,Nosní obtíže
+362,Theraflu 263mg,Sanofi,819401,Vitamíny,Kašel
+363,Neo-angin 402mg,Bayer,744481,Antihistaminika,Horečka
+364,Olynth 256mg,GSK,884057,Dekongestiva,Imunita
+365,Orofar 662mg,GSK,894140,Antihistaminika,Alergie
+366,Tantum Verde 872mg,Novartis,925618,Antiseptika,Vitamíny
+367,Stoptusin 677mg,Teva,164759,Antihistaminika,Horečka
+368,Aspirin 435mg,Roche,563303,Antihistaminika,Nosní obtíže
+369,Stoptusin 622mg,GSK,947975,Antiseptika,Horečka
+370,Nasivin 525mg,GSK,691303,Antiseptika,Dýchací cesty
+371,Magne B6 122mg,Sanofi,366817,Antihistaminika,Kašel
+372,Ibalgin 533mg,Bayer,834406,Analgetika,Kašel
+373,Claritin 583mg,Zentiva,401037,Antipyretika,Horečka
+374,Celaskon 756mg,Sanofi,492651,Antiseptika,Imunita
+375,Mucosolvan 182mg,Roche,239450,Dekongestiva,Kašel
+376,Aspirin 650mg,Sanofi,654531,Antihistaminika,Bolest
+377,Celaskon 123mg,Pfizer,585495,Mukolytika,Imunita
+378,B-komplex 335mg,Krka,583001,Antipyretika,Dýchací cesty
+379,Panadol 996mg,Teva,133783,Mukolytika,Bolest
+380,Nurofen 311mg,Teva,205798,Analgetika,Nosní obtíže
+381,Strepsils 788mg,Zentiva,356622,Mukolytika,Nosní obtíže
+382,Nurofen 652mg,Krka,891030,Antipyretika,Dýchací cesty
+383,Nurofen 935mg,Novartis,434395,Dekongestiva,Alergie
+384,Theraflu 997mg,Sandoz,792283,Antihistaminika,Imunita
+385,Theraflu 381mg,Zentiva,683762,Antipyretika,Imunita
+386,Sanorin 607mg,Zentiva,461146,Mukolytika,Vitamíny
+387,Orofar 526mg,Sanofi,256466,Mukolytika,Horečka
+388,Celaskon 650mg,GSK,352673,Vitamíny,Horečka
+389,Vitamin D 574mg,Zentiva,689705,Mukolytika,Horečka
+390,Mucosolvan 348mg,Pfizer,313215,Antitusika,Nosní obtíže
+391,Zodac 479mg,Teva,661654,Analgetika,Dýchací cesty
+392,Mucosolvan 789mg,Novartis,732209,Antitusika,Alergie
+393,Vitamin D 879mg,Novartis,859490,Antihistaminika,Nosní obtíže
+394,Panadol 990mg,Bayer,417915,Antihistaminika,Alergie
+395,Magne B6 220mg,GSK,354378,Antihistaminika,Imunita
+396,Claritin 345mg,Roche,437237,Mukolytika,Nosní obtíže
+397,Sanorin 764mg,Bayer,423404,Dekongestiva,Nosní obtíže
+398,Prospan 200mg,GSK,898626,Antihistaminika,Vitamíny
+399,ACC Long 523mg,Zentiva,689849,Antipyretika,Bolest
+400,Coldrex 666mg,Novartis,707276,Vitamíny,Horečka
+401,Panadol 437mg,Krka,498291,Antihistaminika,Nosní obtíže
+402,Sanorin 770mg,Bayer,369827,Antiseptika,Nosní obtíže
+403,Aspirin 850mg,Bayer,277487,Antiseptika,Horečka
+404,Claritin 655mg,Zentiva,649395,Antitusika,Bolest
+405,Celaskon 106mg,Sanofi,244171,Antihistaminika,Kašel
+406,Orofar 254mg,Zentiva,329345,Antiseptika,Vitamíny
+407,Ibalgin 732mg,Novartis,606677,Antiseptika,Bolest
+408,Paralen 644mg,Roche,531319,Analgetika,Dýchací cesty
+409,Sanorin 393mg,Zentiva,626612,Mukolytika,Horečka
+410,Levopront 198mg,Roche,256130,Antihistaminika,Dýchací cesty
+411,B-komplex 462mg,Pfizer,933552,Antitusika,Vitamíny
+412,Mucosolvan 570mg,Novartis,355022,Antihistaminika,Dýchací cesty
+413,Tantum Verde 947mg,Teva,785492,Analgetika,Kašel
+414,Mucosolvan 488mg,Sanofi,679550,Analgetika,Bolest
+415,Orofar 275mg,Teva,624140,Dekongestiva,Kašel
+416,Zyrtec 640mg,Zentiva,340927,Antiseptika,Dýchací cesty
+417,Ibalgin 176mg,Pfizer,669409,Analgetika,Horečka
+418,Claritin 970mg,Bayer,116418,Antipyretika,Imunita
+419,Claritin 178mg,Pfizer,270342,Antihistaminika,Imunita
+420,Tantum Verde 653mg,Bayer,502491,Antitusika,Vitamíny
+421,Ibalgin 200mg,Sanofi,343420,Dekongestiva,Imunita
+422,Celaskon 434mg,Zentiva,764926,Antiseptika,Nosní obtíže
+423,Nurofen 464mg,Roche,493664,Antipyretika,Imunita
+424,Stoptusin 890mg,Novartis,409727,Antitusika,Kašel
+425,Coldrex 257mg,Sanofi,846248,Antipyretika,Imunita
+426,ACC Long 469mg,Teva,195966,Vitamíny,Nosní obtíže
+427,Ambrobene 879mg,Pfizer,207197,Antitusika,Horečka
+428,Hedelix 559mg,Roche,681688,Mukolytika,Kašel
+429,Paralen 191mg,Bayer,681141,Dekongestiva,Imunita
+430,Paralen 398mg,Sanofi,506637,Antihistaminika,Horečka
+431,Tantum Verde 489mg,Sandoz,245584,Vitamíny,Dýchací cesty
+432,Olynth 249mg,Teva,275330,Vitamíny,Imunita
+433,Theraflu 595mg,Teva,478666,Antihistaminika,Nosní obtíže
+434,Strepsils 731mg,Krka,580102,Antipyretika,Dýchací cesty
+435,Paralen 505mg,Bayer,982496,Mukolytika,Vitamíny
+436,Prospan 442mg,Sanofi,955089,Antipyretika,Dýchací cesty
+437,ACC Long 717mg,Krka,602279,Antipyretika,Imunita
+438,ACC Long 398mg,GSK,703853,Dekongestiva,Imunita
+439,Coldrex 936mg,Sanofi,482746,Antihistaminika,Horečka
+440,Tantum Verde 886mg,Roche,128224,Antihistaminika,Nosní obtíže
+441,Vitamin D 398mg,Teva,958748,Antiseptika,Horečka
+442,Neo-angin 410mg,Krka,364956,Antipyretika,Imunita
+443,Vitamin D 486mg,Teva,570881,Antiseptika,Imunita
+444,Sanorin 618mg,Sanofi,670053,Dekongestiva,Kašel
+445,Levopront 887mg,Krka,789546,Dekongestiva,Horečka
+446,Neo-angin 727mg,Zentiva,690580,Mukolytika,Vitamíny
+447,Vitamin D 540mg,Teva,111060,Vitamíny,Alergie
+448,Nasivin 864mg,Roche,685099,Antihistaminika,Nosní obtíže
+449,Ambrobene 500mg,GSK,909860,Antipyretika,Vitamíny
+450,Paralen 594mg,Teva,409784,Antitusika,Kašel
+451,B-komplex 847mg,Sandoz,465249,Dekongestiva,Nosní obtíže
+452,Vitamin D 311mg,Roche,606385,Antiseptika,Kašel
+453,Prospan 839mg,GSK,434400,Vitamíny,Bolest
+454,Vitamin D 827mg,Teva,123683,Antitusika,Horečka
+455,Claritin 858mg,Krka,641058,Antipyretika,Vitamíny
+456,Sanorin 536mg,GSK,343119,Antipyretika,Horečka
+457,Neo-angin 773mg,Sanofi,514798,Antihistaminika,Nosní obtíže
+458,Septolete 539mg,Sanofi,104666,Antihistaminika,Dýchací cesty
+459,Celaskon 820mg,Teva,705393,Antipyretika,Vitamíny
+460,ACC Long 301mg,GSK,219490,Antiseptika,Vitamíny
+461,Strepsils 497mg,Novartis,511613,Antitusika,Vitamíny
+462,Ambrobene 965mg,GSK,747351,Vitamíny,Kašel
+463,Tantum Verde 237mg,Bayer,223586,Vitamíny,Kašel
+464,Aspirin 482mg,Sandoz,635639,Mukolytika,Horečka
+465,Septolete 492mg,Sanofi,294777,Antipyretika,Horečka
+466,Olynth 395mg,Sandoz,296188,Antiseptika,Bolest
+467,Zodac 467mg,Zentiva,608149,Antihistaminika,Imunita
+468,Sanorin 617mg,GSK,529009,Antiseptika,Imunita
+469,Orofar 960mg,GSK,612438,Antitusika,Bolest
+470,Vitamin D 879mg,Krka,406278,Vitamíny,Alergie
+471,Sanorin 395mg,Sandoz,918666,Antiseptika,Kašel
+472,Septolete 216mg,Pfizer,912765,Dekongestiva,Bolest
+473,Celaskon 836mg,GSK,672892,Mukolytika,Kašel
+474,Magne B6 949mg,Krka,412170,Antiseptika,Dýchací cesty
+475,Ambrobene 982mg,Teva,560398,Antihistaminika,Alergie
+476,Vitamin D 855mg,Novartis,822609,Mukolytika,Horečka
+477,Strepsils 242mg,Krka,953047,Analgetika,Vitamíny
+478,Sanorin 387mg,Novartis,664939,Dekongestiva,Dýchací cesty
+479,Theraflu 686mg,Pfizer,999696,Antitusika,Horečka
+480,Celaskon 904mg,Sanofi,162165,Antipyretika,Horečka
+481,Nurofen 249mg,Bayer,968726,Mukolytika,Nosní obtíže
+482,Calcium 691mg,Pfizer,758310,Mukolytika,Nosní obtíže
+483,Stoptusin 748mg,Teva,522420,Vitamíny,Vitamíny
+484,Prospan 599mg,Bayer,710224,Antitusika,Nosní obtíže
+485,Neo-angin 780mg,Bayer,991401,Mukolytika,Alergie
+486,Hedelix 944mg,Krka,618746,Dekongestiva,Dýchací cesty
+487,ACC Long 660mg,Novartis,236938,Antiseptika,Vitamíny
+488,Zyrtec 798mg,Zentiva,148174,Antiseptika,Bolest
+489,Levopront 978mg,Sandoz,562722,Analgetika,Imunita
+490,Panadol 805mg,Sandoz,781571,Antipyretika,Dýchací cesty
+491,Stoptusin 770mg,Bayer,362552,Dekongestiva,Horečka
+492,Ibalgin 505mg,Pfizer,861254,Antihistaminika,Imunita
+493,Neo-angin 193mg,Teva,101139,Antiseptika,Kašel
+494,Calcium 707mg,Krka,644677,Antiseptika,Bolest
+495,Paralen 812mg,Bayer,956800,Mukolytika,Horečka
+496,Olynth 172mg,Krka,501677,Antitusika,Kašel
+497,ACC Long 476mg,Pfizer,243791,Antipyretika,Horečka
+498,Stoptusin 643mg,Novartis,108887,Antipyretika,Nosní obtíže
+499,Ambrobene 839mg,Krka,758589,Mukolytika,Nosní obtíže
+500,Zodac 322mg,Teva,205345,Antitusika,Imunita
+501,Ambrobene 539mg,Bayer,929504,Antihistaminika,Dýchací cesty
+502,Neo-angin 186mg,Krka,680279,Vitamíny,Bolest
+503,Zodac 967mg,Pfizer,315426,Antihistaminika,Imunita
+504,Theraflu 761mg,Zentiva,921875,Antiseptika,Imunita
+505,Levopront 346mg,GSK,769078,Antitusika,Bolest
+506,Ambrobene 424mg,Sandoz,505630,Mukolytika,Vitamíny
+507,Sanorin 799mg,Sandoz,899777,Antitusika,Bolest
+508,Septolete 169mg,Zentiva,374921,Analgetika,Bolest
+509,Vitamin D 507mg,Roche,400405,Mukolytika,Imunita
+510,Orofar 511mg,Teva,771653,Antipyretika,Dýchací cesty
+511,Stoptusin 417mg,Teva,636141,Antipyretika,Vitamíny
+512,Mucosolvan 700mg,Teva,425237,Mukolytika,Alergie
+513,Ibalgin 350mg,Teva,555589,Antiseptika,Bolest
+514,Theraflu 782mg,Sandoz,225245,Antipyretika,Bolest
+515,Aspirin 608mg,Bayer,648411,Vitamíny,Horečka
+516,Ambrobene 229mg,Pfizer,868538,Analgetika,Vitamíny
+517,Vitamin D 539mg,Pfizer,649300,Vitamíny,Kašel
+518,Olynth 566mg,Roche,477617,Antiseptika,Horečka
+519,Ambrobene 261mg,Pfizer,910894,Antitusika,Alergie
+520,Magne B6 621mg,Zentiva,146177,Antihistaminika,Bolest
+521,Olynth 472mg,Sanofi,257375,Analgetika,Imunita
+522,Nurofen 429mg,Krka,536477,Vitamíny,Kašel
+523,Septolete 481mg,Teva,626429,Analgetika,Horečka
+524,Nurofen 923mg,Roche,148160,Antitusika,Nosní obtíže
+525,Zodac 389mg,Pfizer,443199,Antiseptika,Bolest
+526,Ambrobene 305mg,Pfizer,691194,Antihistaminika,Nosní obtíže
+527,Ambrobene 705mg,GSK,910143,Antihistaminika,Horečka
+528,Paralen 519mg,Zentiva,344316,Dekongestiva,Bolest
+529,ACC Long 101mg,Sanofi,990247,Antitusika,Alergie
+530,Nasivin 343mg,Sanofi,615929,Antipyretika,Dýchací cesty
+531,Stoptusin 144mg,Krka,986576,Mukolytika,Vitamíny
+532,Prospan 865mg,Teva,708982,Antipyretika,Imunita
+533,Stoptusin 706mg,Novartis,165309,Antipyretika,Alergie
+534,Theraflu 367mg,Bayer,939718,Dekongestiva,Vitamíny
+535,Prospan 378mg,Krka,178315,Antipyretika,Kašel
+536,Calcium 208mg,Sandoz,571405,Dekongestiva,Imunita
+537,Levopront 648mg,Bayer,907756,Antiseptika,Dýchací cesty
+538,Prospan 371mg,Teva,194813,Vitamíny,Bolest
+539,Panadol 955mg,Bayer,255528,Antihistaminika,Vitamíny
+540,Mucosolvan 625mg,Zentiva,810078,Vitamíny,Horečka
+541,Paralen 514mg,GSK,682960,Antihistaminika,Kašel
+542,Prospan 204mg,Sandoz,227352,Analgetika,Alergie
+543,Calcium 302mg,Sanofi,490322,Antitusika,Dýchací cesty
+544,Claritin 932mg,Teva,122859,Antihistaminika,Nosní obtíže
+545,Vitamin D 231mg,Teva,988433,Antitusika,Bolest
+546,Prospan 151mg,Sandoz,701762,Mukolytika,Nosní obtíže
+547,Paralen 491mg,Sanofi,281202,Antihistaminika,Horečka
+548,Coldrex 386mg,GSK,255851,Antihistaminika,Dýchací cesty
+549,Olynth 521mg,Roche,602300,Antitusika,Dýchací cesty
+550,Mucosolvan 240mg,Sanofi,309147,Antihistaminika,Bolest
+551,Mucosolvan 900mg,Bayer,602986,Antiseptika,Vitamíny
+552,Claritin 679mg,Roche,437227,Vitamíny,Horečka
+553,Paralen 426mg,Novartis,329659,Vitamíny,Bolest
+554,Vitamin D 583mg,Roche,474796,Antihistaminika,Horečka
+555,Levopront 353mg,Krka,379474,Analgetika,Alergie
+556,Septolete 966mg,Sanofi,472039,Antipyretika,Alergie
+557,Septolete 425mg,Bayer,720298,Dekongestiva,Horečka
+558,Septolete 292mg,GSK,668458,Antipyretika,Nosní obtíže
+559,Ibalgin 192mg,Zentiva,343924,Antihistaminika,Bolest
+560,Nasivin 589mg,Zentiva,447849,Antihistaminika,Horečka
+561,ACC Long 834mg,Sandoz,941404,Analgetika,Bolest
+562,Calcium 700mg,Sandoz,911982,Dekongestiva,Kašel
+563,Ambrobene 821mg,Sanofi,714483,Dekongestiva,Dýchací cesty
+564,ACC Long 239mg,Sandoz,867927,Antiseptika,Vitamíny
+565,Aspirin 824mg,Roche,827251,Dekongestiva,Alergie
+566,Tantum Verde 703mg,Sandoz,496764,Vitamíny,Horečka
+567,Aspirin 846mg,Zentiva,836110,Mukolytika,Bolest
+568,Aspirin 716mg,Bayer,948096,Antihistaminika,Kašel
+569,Claritin 608mg,Sandoz,447255,Antihistaminika,Vitamíny
+570,ACC Long 271mg,Teva,961575,Dekongestiva,Nosní obtíže
+571,Paralen 371mg,Krka,361663,Antitusika,Vitamíny
+572,Coldrex 905mg,Teva,855408,Analgetika,Imunita
+573,Prospan 850mg,Sanofi,274419,Antiseptika,Imunita
+574,Ambrobene 659mg,Sanofi,206356,Antihistaminika,Horečka
+575,Prospan 175mg,Zentiva,409234,Dekongestiva,Dýchací cesty
+576,Levopront 175mg,Bayer,278369,Antipyretika,Kašel
+577,Sanorin 195mg,Bayer,722887,Antiseptika,Bolest
+578,Hedelix 769mg,Sandoz,736819,Antipyretika,Bolest
+579,Levopront 439mg,Krka,299213,Vitamíny,Dýchací cesty
+580,Theraflu 343mg,Teva,152047,Antiseptika,Horečka
+581,Ibalgin 469mg,Zentiva,548377,Vitamíny,Nosní obtíže
+582,Panadol 199mg,Zentiva,317005,Vitamíny,Kašel
+583,Olynth 964mg,Teva,423332,Antiseptika,Nosní obtíže
+584,Zyrtec 776mg,Pfizer,195564,Mukolytika,Horečka
+585,Ambrobene 490mg,Bayer,295647,Analgetika,Dýchací cesty
+586,Prospan 576mg,Pfizer,337232,Analgetika,Horečka
+587,Celaskon 813mg,Teva,189871,Dekongestiva,Imunita
+588,Celaskon 703mg,Krka,680493,Mukolytika,Imunita
+589,Sanorin 803mg,GSK,700534,Antiseptika,Dýchací cesty
+590,Stoptusin 504mg,Zentiva,626492,Antipyretika,Kašel
+591,Celaskon 559mg,Sandoz,275284,Antihistaminika,Horečka
+592,Ibalgin 533mg,Teva,816309,Antihistaminika,Horečka
+593,B-komplex 709mg,Pfizer,435281,Antitusika,Imunita
+594,Sanorin 506mg,Roche,441968,Antiseptika,Bolest
+595,Vitamin D 817mg,Novartis,716119,Mukolytika,Kašel
+596,Hedelix 253mg,Sandoz,694117,Antitusika,Kašel
+597,Septolete 898mg,Teva,923914,Dekongestiva,Imunita
+598,Coldrex 492mg,GSK,699810,Antiseptika,Bolest
+599,Aspirin 382mg,Sanofi,250841,Mukolytika,Bolest
+600,Mucosolvan 439mg,Krka,151686,Vitamíny,Vitamíny
+601,Paralen 445mg,Pfizer,426053,Antiseptika,Kašel
+602,Zodac 333mg,Sandoz,415077,Dekongestiva,Dýchací cesty
+603,Magne B6 526mg,Novartis,776913,Antihistaminika,Nosní obtíže
+604,Panadol 943mg,Sanofi,876937,Dekongestiva,Bolest
+605,Nasivin 910mg,Sandoz,168804,Mukolytika,Horečka
+606,Celaskon 971mg,Roche,696296,Antipyretika,Alergie
+607,Zyrtec 952mg,Krka,977633,Antihistaminika,Bolest
+608,Prospan 151mg,Bayer,838862,Vitamíny,Vitamíny
+609,B-komplex 575mg,Roche,516225,Antitusika,Bolest
+610,Nurofen 481mg,GSK,722900,Antipyretika,Nosní obtíže
+611,Septolete 664mg,Bayer,460971,Vitamíny,Kašel
+612,Theraflu 128mg,Sanofi,152062,Antihistaminika,Alergie
+613,Neo-angin 330mg,Krka,382155,Mukolytika,Bolest
+614,Zodac 899mg,Zentiva,597126,Antipyretika,Bolest
+615,Nurofen 358mg,Novartis,944193,Vitamíny,Imunita
+616,Zyrtec 485mg,Bayer,581294,Antihistaminika,Nosní obtíže
+617,Theraflu 793mg,Roche,964353,Mukolytika,Kašel
+618,Paralen 623mg,Bayer,688731,Vitamíny,Dýchací cesty
+619,Tantum Verde 210mg,GSK,166939,Vitamíny,Vitamíny
+620,Zodac 383mg,Pfizer,787992,Vitamíny,Alergie
+621,Calcium 629mg,Krka,159533,Mukolytika,Vitamíny
+622,Tantum Verde 243mg,Zentiva,787238,Vitamíny,Dýchací cesty
+623,Claritin 528mg,Sanofi,507135,Antihistaminika,Vitamíny
+624,Magne B6 830mg,Krka,819657,Antiseptika,Vitamíny
+625,Nasivin 407mg,Sandoz,981474,Antipyretika,Dýchací cesty
+626,Levopront 582mg,Sandoz,876909,Antipyretika,Vitamíny
+627,Neo-angin 191mg,Krka,472541,Vitamíny,Imunita
+628,Vitamin D 439mg,Bayer,373217,Vitamíny,Nosní obtíže
+629,Zodac 220mg,GSK,156285,Antitusika,Nosní obtíže
+630,Zyrtec 299mg,Roche,225637,Mukolytika,Dýchací cesty
+631,Hedelix 155mg,Sandoz,244037,Dekongestiva,Imunita
+632,Septolete 568mg,Sandoz,431752,Antitusika,Nosní obtíže
+633,ACC Long 746mg,Sandoz,428639,Analgetika,Bolest
+634,Prospan 380mg,Krka,898169,Antipyretika,Nosní obtíže
+635,Vitamin D 881mg,Teva,235692,Mukolytika,Imunita
+636,Mucosolvan 539mg,GSK,501936,Analgetika,Alergie
+637,Magne B6 482mg,Zentiva,437865,Antihistaminika,Bolest
+638,Tantum Verde 104mg,Krka,337257,Dekongestiva,Dýchací cesty
+639,Calcium 205mg,Sanofi,627787,Vitamíny,Horečka
+640,Stoptusin 943mg,Zentiva,412687,Antiseptika,Vitamíny
+641,Hedelix 803mg,Sandoz,459382,Dekongestiva,Alergie
+642,Aspirin 931mg,Sanofi,120053,Antihistaminika,Horečka
+643,Panadol 851mg,Zentiva,718338,Antipyretika,Kašel
+644,Ambrobene 828mg,Zentiva,493418,Vitamíny,Bolest
+645,Strepsils 149mg,Teva,785315,Analgetika,Kašel
+646,Hedelix 554mg,Sanofi,229599,Vitamíny,Nosní obtíže
+647,Orofar 256mg,Krka,828962,Analgetika,Dýchací cesty
+648,Hedelix 777mg,Teva,794664,Vitamíny,Horečka
+649,Hedelix 950mg,Teva,636436,Antitusika,Dýchací cesty
+650,Levopront 903mg,Teva,621917,Antihistaminika,Dýchací cesty
+651,B-komplex 635mg,Krka,475309,Vitamíny,Horečka
+652,Ibalgin 661mg,GSK,317783,Antiseptika,Vitamíny
+653,Nurofen 102mg,Zentiva,804258,Antitusika,Nosní obtíže
+654,Calcium 192mg,Roche,178693,Vitamíny,Alergie
+655,Prospan 403mg,Pfizer,586830,Antitusika,Horečka
+656,Zodac 140mg,Pfizer,477713,Dekongestiva,Imunita
+657,Magne B6 218mg,Teva,992596,Analgetika,Horečka
+658,Tantum Verde 762mg,Sandoz,444626,Antiseptika,Dýchací cesty
+659,Zyrtec 850mg,Teva,490723,Antipyretika,Kašel
+660,Mucosolvan 509mg,GSK,385038,Antiseptika,Imunita
+661,Neo-angin 916mg,Sandoz,218548,Analgetika,Horečka
+662,Levopront 526mg,Novartis,606122,Antiseptika,Horečka
+663,Strepsils 488mg,Bayer,741055,Antipyretika,Nosní obtíže
+664,Claritin 599mg,Teva,531263,Analgetika,Kašel
+665,Coldrex 770mg,Bayer,112961,Antihistaminika,Vitamíny
+666,Nasivin 635mg,Novartis,199869,Antihistaminika,Nosní obtíže
+667,Ambrobene 779mg,Sanofi,255876,Analgetika,Bolest
+668,Neo-angin 260mg,Roche,990080,Antiseptika,Horečka
+669,Stoptusin 869mg,GSK,436208,Dekongestiva,Dýchací cesty
+670,Ibalgin 619mg,Krka,677237,Mukolytika,Imunita
+671,B-komplex 340mg,Teva,581396,Antiseptika,Kašel
+672,Zodac 610mg,GSK,431414,Antiseptika,Bolest
+673,Levopront 513mg,Sanofi,137573,Analgetika,Kašel
+674,Vitamin D 718mg,Novartis,768507,Antihistaminika,Nosní obtíže
+675,ACC Long 472mg,Zentiva,956255,Antiseptika,Vitamíny
+676,Sanorin 885mg,Novartis,729095,Dekongestiva,Nosní obtíže
+677,Levopront 199mg,Krka,102304,Dekongestiva,Dýchací cesty
+678,Sanorin 634mg,Bayer,836201,Analgetika,Horečka
+679,Olynth 243mg,Sanofi,212157,Antihistaminika,Alergie
+680,Levopront 972mg,Sanofi,326062,Antihistaminika,Vitamíny
+681,Levopront 875mg,Sanofi,148760,Antitusika,Nosní obtíže
+682,Prospan 774mg,Novartis,628689,Antiseptika,Bolest
+683,Nasivin 853mg,Zentiva,680100,Antiseptika,Horečka
+684,Orofar 692mg,Sandoz,865979,Antitusika,Imunita
+685,Tantum Verde 714mg,Novartis,437478,Mukolytika,Imunita
+686,Strepsils 809mg,Krka,386887,Dekongestiva,Dýchací cesty
+687,Prospan 924mg,Sandoz,244893,Vitamíny,Vitamíny
+688,Orofar 854mg,Roche,763311,Antihistaminika,Alergie
+689,Strepsils 831mg,Pfizer,819965,Antipyretika,Horečka
+690,Nasivin 655mg,Bayer,844858,Dekongestiva,Nosní obtíže
+691,Septolete 684mg,Sanofi,806996,Vitamíny,Imunita
+692,Vitamin D 113mg,Roche,211642,Mukolytika,Horečka
+693,Ibalgin 786mg,Zentiva,309612,Antipyretika,Dýchací cesty
+694,Tantum Verde 356mg,Sandoz,980155,Vitamíny,Alergie
+695,Celaskon 654mg,Zentiva,476106,Antitusika,Alergie
+696,Magne B6 762mg,Roche,507777,Vitamíny,Bolest
+697,Claritin 490mg,Sanofi,536802,Dekongestiva,Bolest
+698,Paralen 861mg,Pfizer,312953,Antiseptika,Alergie
+699,Claritin 748mg,Bayer,891788,Antihistaminika,Alergie
+700,Theraflu 559mg,Sandoz,815819,Antipyretika,Horečka
+701,Magne B6 626mg,Teva,495521,Mukolytika,Dýchací cesty
+702,Sanorin 370mg,Sandoz,268747,Vitamíny,Bolest
+703,ACC Long 577mg,Sandoz,141880,Dekongestiva,Bolest
+704,Celaskon 740mg,Novartis,984097,Vitamíny,Nosní obtíže
+705,Vitamin D 686mg,Roche,475479,Dekongestiva,Alergie
+706,Aspirin 633mg,Teva,924452,Antipyretika,Imunita
+707,Sanorin 649mg,Sanofi,196412,Antihistaminika,Alergie
+708,Tantum Verde 439mg,Bayer,478323,Antihistaminika,Nosní obtíže
+709,Sanorin 943mg,Zentiva,220295,Dekongestiva,Nosní obtíže
+710,Nurofen 757mg,Novartis,751303,Analgetika,Vitamíny
+711,Mucosolvan 915mg,Teva,504620,Vitamíny,Bolest
+712,Claritin 629mg,Bayer,639293,Antiseptika,Nosní obtíže
+713,Ibalgin 403mg,Krka,435873,Antitusika,Kašel
+714,Aspirin 891mg,Roche,659106,Antitusika,Alergie
+715,Tantum Verde 744mg,Krka,818700,Antitusika,Alergie
+716,Sanorin 948mg,Sanofi,777968,Antipyretika,Bolest
+717,Prospan 834mg,Bayer,139726,Antitusika,Bolest
+718,Aspirin 913mg,Pfizer,685193,Antihistaminika,Dýchací cesty
+719,Hedelix 497mg,GSK,760831,Mukolytika,Vitamíny
+720,Paralen 498mg,Teva,660814,Antitusika,Bolest
+721,Orofar 968mg,Teva,475076,Antitusika,Dýchací cesty
+722,Vitamin D 802mg,Pfizer,736030,Vitamíny,Nosní obtíže
+723,Mucosolvan 504mg,Zentiva,597012,Antihistaminika,Horečka
+724,Magne B6 500mg,Roche,409308,Antipyretika,Dýchací cesty
+725,Tantum Verde 914mg,Bayer,111692,Antipyretika,Kašel
+726,Ibalgin 105mg,Novartis,725638,Antitusika,Dýchací cesty
+727,Panadol 866mg,Bayer,322023,Antipyretika,Horečka
+728,Aspirin 326mg,Novartis,975297,Antihistaminika,Kašel
+729,Aspirin 787mg,Novartis,993650,Antiseptika,Kašel
+730,Theraflu 787mg,Teva,362865,Antihistaminika,Nosní obtíže
+731,ACC Long 465mg,Sandoz,803905,Antihistaminika,Kašel
+732,Theraflu 734mg,Teva,302898,Antiseptika,Nosní obtíže
+733,ACC Long 731mg,Pfizer,827144,Antipyretika,Vitamíny
+734,Vitamin D 423mg,Sanofi,276831,Dekongestiva,Alergie
+735,Vitamin D 326mg,Sanofi,390120,Antipyretika,Vitamíny
+736,Zyrtec 591mg,GSK,566992,Vitamíny,Nosní obtíže
+737,Sanorin 211mg,Sandoz,776910,Antitusika,Dýchací cesty
+738,Zodac 946mg,Sandoz,664781,Vitamíny,Kašel
+739,Magne B6 177mg,Zentiva,990857,Analgetika,Imunita
+740,Celaskon 704mg,Krka,138437,Vitamíny,Nosní obtíže
+741,Neo-angin 893mg,Sandoz,483589,Antihistaminika,Dýchací cesty
+742,Calcium 575mg,Roche,635205,Mukolytika,Vitamíny
+743,Nasivin 110mg,Krka,989174,Antipyretika,Horečka
+744,Prospan 263mg,Sandoz,693869,Antipyretika,Nosní obtíže
+745,Ambrobene 141mg,Krka,898462,Antihistaminika,Kašel
+746,Coldrex 478mg,Krka,144888,Antihistaminika,Vitamíny
+747,Mucosolvan 580mg,GSK,148693,Dekongestiva,Kašel
+748,Orofar 633mg,Pfizer,975427,Antipyretika,Imunita
+749,Neo-angin 487mg,Bayer,716226,Antitusika,Dýchací cesty
+750,Mucosolvan 328mg,Roche,525557,Dekongestiva,Nosní obtíže
+751,Vitamin D 593mg,Novartis,106919,Antipyretika,Nosní obtíže
+752,Aspirin 335mg,Teva,639536,Vitamíny,Alergie
+753,Calcium 291mg,Sandoz,479819,Antitusika,Alergie
+754,Hedelix 930mg,Bayer,855242,Antiseptika,Nosní obtíže
+755,Olynth 315mg,Novartis,269079,Mukolytika,Bolest
+756,Nurofen 144mg,Sandoz,701345,Antipyretika,Horečka
+757,Neo-angin 624mg,Zentiva,700067,Analgetika,Horečka
+758,Coldrex 284mg,Roche,525152,Analgetika,Dýchací cesty
+759,Stoptusin 321mg,GSK,735989,Antiseptika,Horečka
+760,Nurofen 950mg,Sanofi,730025,Antipyretika,Dýchací cesty
+761,Aspirin 841mg,Bayer,575498,Antitusika,Alergie
+762,Mucosolvan 494mg,Sandoz,213844,Antihistaminika,Imunita
+763,B-komplex 253mg,Novartis,200976,Antiseptika,Bolest
+764,Zyrtec 902mg,Roche,627778,Antitusika,Nosní obtíže
+765,Tantum Verde 233mg,Novartis,665482,Mukolytika,Imunita
+766,Ambrobene 995mg,Zentiva,831532,Mukolytika,Alergie
+767,Vitamin D 593mg,Sanofi,467545,Antitusika,Imunita
+768,Calcium 360mg,GSK,903061,Antitusika,Dýchací cesty
+769,Strepsils 997mg,Roche,528497,Antihistaminika,Bolest
+770,Orofar 861mg,Zentiva,706064,Antitusika,Bolest
+771,Mucosolvan 770mg,Krka,821176,Mukolytika,Vitamíny
+772,Levopront 258mg,Sanofi,783227,Vitamíny,Dýchací cesty
+773,Zodac 648mg,Sanofi,692100,Vitamíny,Imunita
+774,Celaskon 308mg,Sanofi,678924,Antiseptika,Horečka
+775,Ambrobene 672mg,Roche,607259,Vitamíny,Vitamíny
+776,Celaskon 822mg,Sanofi,871523,Antitusika,Alergie
+777,Prospan 901mg,Sandoz,205149,Mukolytika,Vitamíny
+778,Vitamin D 663mg,Novartis,830918,Analgetika,Horečka
+779,Mucosolvan 751mg,Zentiva,943442,Antipyretika,Nosní obtíže
+780,Claritin 714mg,Sanofi,192422,Vitamíny,Alergie
+781,Ambrobene 181mg,Novartis,139590,Mukolytika,Dýchací cesty
+782,Orofar 711mg,Zentiva,911187,Antiseptika,Nosní obtíže
+783,Paralen 306mg,Roche,399899,Analgetika,Alergie
+784,Strepsils 273mg,Zentiva,477214,Analgetika,Horečka
+785,Stoptusin 382mg,Sanofi,470282,Mukolytika,Imunita
+786,Septolete 305mg,Roche,116112,Antitusika,Dýchací cesty
+787,Magne B6 949mg,Roche,711249,Dekongestiva,Dýchací cesty
+788,Nurofen 720mg,Krka,576850,Analgetika,Dýchací cesty
+789,Aspirin 516mg,Roche,211637,Antitusika,Dýchací cesty
+790,ACC Long 219mg,Roche,370212,Vitamíny,Nosní obtíže
+791,Mucosolvan 676mg,GSK,907369,Dekongestiva,Nosní obtíže
+792,Tantum Verde 571mg,Novartis,128680,Antitusika,Dýchací cesty
+793,Stoptusin 491mg,Krka,809795,Antihistaminika,Vitamíny
+794,Hedelix 461mg,Roche,661671,Vitamíny,Alergie
+795,Theraflu 195mg,Sanofi,806424,Antitusika,Horečka
+796,Olynth 421mg,Bayer,329184,Vitamíny,Horečka
+797,Magne B6 799mg,Krka,623238,Antihistaminika,Alergie
+798,Zodac 371mg,Krka,340341,Antihistaminika,Vitamíny
+799,Calcium 897mg,Teva,225701,Antiseptika,Bolest
+800,Celaskon 977mg,Roche,144317,Dekongestiva,Vitamíny
+801,Olynth 688mg,Pfizer,614646,Vitamíny,Imunita
+802,Nurofen 868mg,Novartis,234475,Mukolytika,Nosní obtíže
+803,Sanorin 133mg,Roche,464159,Antipyretika,Nosní obtíže
+804,Levopront 815mg,Roche,582419,Analgetika,Bolest
+805,Tantum Verde 315mg,Sanofi,709231,Dekongestiva,Vitamíny
+806,Strepsils 982mg,Pfizer,296244,Vitamíny,Alergie
+807,Coldrex 582mg,Novartis,459763,Antipyretika,Nosní obtíže
+808,Hedelix 315mg,Sanofi,834751,Dekongestiva,Imunita
+809,Coldrex 561mg,Sandoz,699166,Antihistaminika,Kašel
+810,Magne B6 376mg,Krka,682317,Mukolytika,Alergie
+811,Calcium 919mg,Sandoz,595962,Antipyretika,Imunita
+812,Olynth 237mg,Roche,659922,Antiseptika,Dýchací cesty
+813,Coldrex 675mg,Novartis,150027,Antitusika,Horečka
+814,Ibalgin 320mg,Pfizer,599688,Antitusika,Nosní obtíže
+815,Magne B6 442mg,Pfizer,478497,Vitamíny,Vitamíny
+816,Paralen 521mg,Teva,468146,Antihistaminika,Horečka
+817,Celaskon 391mg,Bayer,440882,Antiseptika,Nosní obtíže
+818,Zyrtec 180mg,Sanofi,743473,Antiseptika,Horečka
+819,Zodac 271mg,Bayer,542307,Mukolytika,Kašel
+820,Stoptusin 265mg,Bayer,339304,Dekongestiva,Dýchací cesty
+821,Orofar 373mg,Novartis,775959,Vitamíny,Nosní obtíže
+822,Celaskon 983mg,Bayer,884226,Antiseptika,Imunita
+823,Aspirin 288mg,Zentiva,231113,Vitamíny,Kašel
+824,Panadol 270mg,Sanofi,208013,Antitusika,Nosní obtíže
+825,Sanorin 155mg,Zentiva,908383,Antitusika,Kašel
+826,Coldrex 732mg,Sandoz,188407,Mukolytika,Dýchací cesty
+827,Nurofen 353mg,Pfizer,564688,Antipyretika,Horečka
+828,Nasivin 958mg,Sandoz,129959,Dekongestiva,Vitamíny
+829,Zodac 587mg,GSK,666843,Antiseptika,Horečka
+830,Orofar 652mg,Sandoz,719532,Antiseptika,Imunita
+831,Nasivin 755mg,Roche,424704,Antiseptika,Alergie
+832,Vitamin D 191mg,GSK,422824,Mukolytika,Dýchací cesty
+833,Calcium 410mg,Zentiva,100097,Antipyretika,Vitamíny
+834,Theraflu 580mg,Roche,108722,Antiseptika,Nosní obtíže
+835,Theraflu 109mg,Sanofi,936726,Antihistaminika,Bolest
+836,Sanorin 482mg,Krka,531737,Mukolytika,Imunita
+837,Nurofen 267mg,Sanofi,968669,Antihistaminika,Dýchací cesty
+838,Stoptusin 532mg,Krka,641705,Vitamíny,Dýchací cesty
+839,Neo-angin 860mg,Roche,948097,Mukolytika,Alergie
+840,Zodac 170mg,Sandoz,243260,Antitusika,Nosní obtíže
+841,Strepsils 563mg,Pfizer,834499,Antiseptika,Alergie
+842,ACC Long 119mg,Sandoz,152043,Analgetika,Horečka
+843,Levopront 388mg,Pfizer,231114,Analgetika,Alergie
+844,Stoptusin 254mg,Zentiva,617555,Dekongestiva,Imunita
+845,Theraflu 904mg,GSK,489439,Analgetika,Vitamíny
+846,Stoptusin 963mg,Sandoz,158760,Mukolytika,Kašel
+847,Sanorin 581mg,Sandoz,301528,Mukolytika,Bolest
+848,Levopront 886mg,Krka,503490,Antihistaminika,Bolest
+849,Panadol 571mg,Teva,646454,Antihistaminika,Nosní obtíže
+850,Mucosolvan 797mg,Pfizer,438756,Analgetika,Kašel
+851,Coldrex 592mg,Pfizer,308377,Analgetika,Alergie
+852,Levopront 341mg,Sanofi,440277,Antipyretika,Dýchací cesty
+853,Septolete 222mg,Sanofi,927477,Analgetika,Bolest
+854,Septolete 902mg,GSK,821847,Antipyretika,Vitamíny
+855,Celaskon 191mg,Krka,265359,Antitusika,Vitamíny
+856,Claritin 877mg,Zentiva,162679,Antipyretika,Kašel
+857,Calcium 599mg,Krka,432126,Dekongestiva,Nosní obtíže
+858,Magne B6 297mg,Zentiva,822731,Dekongestiva,Horečka
+859,Coldrex 140mg,GSK,840952,Vitamíny,Nosní obtíže
+860,Panadol 680mg,Sandoz,670028,Dekongestiva,Nosní obtíže
+861,Coldrex 988mg,Novartis,681456,Antitusika,Horečka
+862,Prospan 402mg,Pfizer,667916,Antiseptika,Bolest
+863,Celaskon 753mg,Roche,497455,Analgetika,Vitamíny
+864,Celaskon 735mg,Krka,436272,Mukolytika,Alergie
+865,Nasivin 799mg,GSK,902931,Antipyretika,Dýchací cesty
+866,ACC Long 519mg,Bayer,215830,Antitusika,Bolest
+867,B-komplex 232mg,Sandoz,132792,Antitusika,Nosní obtíže
+868,Panadol 201mg,Zentiva,698750,Mukolytika,Nosní obtíže
+869,Nasivin 738mg,Novartis,368371,Dekongestiva,Alergie
+870,Strepsils 835mg,Teva,113721,Antiseptika,Kašel
+871,Prospan 920mg,Zentiva,478459,Mukolytika,Vitamíny
+872,Vitamin D 825mg,Zentiva,963653,Vitamíny,Bolest
+873,Magne B6 172mg,Pfizer,181721,Antitusika,Kašel
+874,Magne B6 336mg,Roche,504048,Antihistaminika,Alergie
+875,Septolete 740mg,Sandoz,685550,Mukolytika,Kašel
+876,Celaskon 753mg,Novartis,475352,Antiseptika,Imunita
+877,Zyrtec 206mg,Sandoz,930956,Mukolytika,Vitamíny
+878,Tantum Verde 261mg,Roche,729058,Dekongestiva,Vitamíny
+879,Sanorin 432mg,Bayer,532374,Mukolytika,Vitamíny
+880,Strepsils 346mg,Novartis,672130,Mukolytika,Dýchací cesty
+881,Ambrobene 563mg,GSK,516379,Analgetika,Dýchací cesty
+882,Strepsils 116mg,Roche,241647,Analgetika,Dýchací cesty
+883,Nurofen 319mg,Bayer,122756,Vitamíny,Horečka
+884,Levopront 138mg,GSK,472932,Antipyretika,Dýchací cesty
+885,Ambrobene 696mg,Krka,344312,Vitamíny,Kašel
+886,Septolete 509mg,Novartis,327999,Dekongestiva,Nosní obtíže
+887,Aspirin 599mg,Novartis,959324,Vitamíny,Bolest
+888,Magne B6 927mg,Novartis,500080,Analgetika,Vitamíny
+889,Ambrobene 936mg,Sanofi,536754,Antihistaminika,Bolest
+890,Neo-angin 896mg,Sanofi,156757,Analgetika,Vitamíny
+891,Sanorin 678mg,Sandoz,442708,Antihistaminika,Horečka
+892,Ibalgin 789mg,Sanofi,567263,Antitusika,Alergie
+893,Hedelix 396mg,Sanofi,255202,Dekongestiva,Kašel
+894,Olynth 685mg,Zentiva,674780,Vitamíny,Kašel
+895,Mucosolvan 613mg,Sanofi,911415,Antipyretika,Horečka
+896,Olynth 672mg,Krka,611560,Antihistaminika,Alergie
+897,Nurofen 173mg,Pfizer,914505,Dekongestiva,Kašel
+898,Levopront 787mg,Sanofi,544115,Dekongestiva,Alergie
+899,ACC Long 452mg,Novartis,787247,Vitamíny,Horečka
+900,Ambrobene 731mg,GSK,753453,Antiseptika,Bolest
+901,Claritin 937mg,Krka,309386,Dekongestiva,Horečka
+902,Celaskon 845mg,Teva,217830,Antihistaminika,Horečka
+903,Zodac 952mg,Pfizer,114401,Antitusika,Dýchací cesty
+904,Prospan 582mg,Zentiva,447997,Antihistaminika,Alergie
+905,Sanorin 635mg,Pfizer,675459,Antipyretika,Bolest
+906,Mucosolvan 696mg,Roche,145594,Antipyretika,Bolest
+907,Theraflu 305mg,Novartis,384459,Antiseptika,Bolest
+908,Stoptusin 497mg,Pfizer,795187,Dekongestiva,Kašel
+909,Paralen 399mg,Sanofi,342398,Antitusika,Vitamíny
+910,Olynth 987mg,Novartis,657381,Antipyretika,Alergie
+911,Nasivin 568mg,Roche,847078,Analgetika,Alergie
+912,Claritin 642mg,Pfizer,449774,Mukolytika,Horečka
+913,Paralen 455mg,Bayer,472641,Vitamíny,Alergie
+914,Nasivin 382mg,Zentiva,756190,Mukolytika,Bolest
+915,Sanorin 386mg,Krka,259078,Mukolytika,Horečka
+916,Stoptusin 847mg,Sanofi,646013,Antihistaminika,Imunita
+917,Nurofen 686mg,Sandoz,547180,Dekongestiva,Nosní obtíže
+918,Sanorin 234mg,Krka,784167,Antihistaminika,Horečka
+919,Theraflu 805mg,Roche,241823,Antipyretika,Horečka
+920,ACC Long 169mg,Roche,658850,Antipyretika,Vitamíny
+921,B-komplex 249mg,Zentiva,902617,Mukolytika,Imunita
+922,Theraflu 553mg,Pfizer,259338,Antitusika,Horečka
+923,Aspirin 126mg,Novartis,746915,Antihistaminika,Alergie
+924,Nurofen 803mg,Zentiva,476712,Antiseptika,Horečka
+925,Nasivin 966mg,Novartis,591535,Dekongestiva,Horečka
+926,Zodac 496mg,GSK,596864,Antipyretika,Alergie
+927,Nurofen 133mg,Sanofi,901677,Vitamíny,Imunita
+928,Nurofen 860mg,Krka,894586,Antitusika,Horečka
+929,Claritin 549mg,Novartis,613743,Dekongestiva,Nosní obtíže
+930,Zyrtec 352mg,Sanofi,524533,Mukolytika,Vitamíny
+931,Mucosolvan 726mg,Novartis,722651,Analgetika,Kašel
+932,Prospan 567mg,Zentiva,357658,Mukolytika,Bolest
+933,Sanorin 496mg,Roche,902329,Analgetika,Alergie
+934,Theraflu 550mg,Sanofi,419348,Antiseptika,Horečka
+935,Hedelix 401mg,Novartis,157197,Antipyretika,Nosní obtíže
+936,B-komplex 761mg,GSK,194835,Antitusika,Horečka
+937,Celaskon 699mg,Roche,241880,Mukolytika,Vitamíny
+938,Prospan 125mg,Sandoz,575719,Antihistaminika,Nosní obtíže
+939,Stoptusin 356mg,Bayer,825319,Antipyretika,Kašel
+940,Stoptusin 216mg,GSK,764874,Antitusika,Imunita
+941,Magne B6 910mg,Roche,741804,Mukolytika,Imunita
+942,Ibalgin 886mg,Sandoz,451476,Antipyretika,Horečka
+943,Zodac 248mg,Sandoz,906519,Mukolytika,Dýchací cesty
+944,Theraflu 847mg,GSK,402809,Antipyretika,Kašel
+945,Zyrtec 234mg,Krka,103705,Vitamíny,Bolest
+946,Prospan 609mg,GSK,669902,Antiseptika,Alergie
+947,Panadol 702mg,GSK,575780,Antiseptika,Kašel
+948,Strepsils 714mg,Zentiva,356601,Vitamíny,Alergie
+949,Ibalgin 289mg,Sandoz,157739,Dekongestiva,Bolest
+950,Calcium 974mg,Zentiva,799397,Vitamíny,Vitamíny
+951,Claritin 189mg,Zentiva,214177,Antipyretika,Horečka
+952,Tantum Verde 391mg,Novartis,793030,Antipyretika,Nosní obtíže
+953,Magne B6 692mg,Bayer,137581,Vitamíny,Vitamíny
+954,Ambrobene 488mg,Teva,895285,Antitusika,Dýchací cesty
+955,Olynth 237mg,Teva,828361,Dekongestiva,Imunita
+956,Nasivin 314mg,Krka,741784,Antitusika,Kašel
+957,Olynth 841mg,Novartis,926471,Mukolytika,Vitamíny
+958,Coldrex 638mg,Novartis,753519,Antipyretika,Nosní obtíže
+959,Nasivin 846mg,GSK,616428,Antihistaminika,Dýchací cesty
+960,Panadol 101mg,Teva,125152,Antitusika,Alergie
+961,Vitamin D 730mg,Sanofi,534153,Dekongestiva,Vitamíny
+962,Sanorin 925mg,Krka,111847,Antihistaminika,Dýchací cesty
+963,Coldrex 909mg,Teva,422722,Dekongestiva,Bolest
+964,Levopront 802mg,Bayer,457944,Analgetika,Horečka
+965,Panadol 438mg,Bayer,805140,Antiseptika,Bolest
+966,Neo-angin 239mg,GSK,262935,Antiseptika,Vitamíny
+967,Prospan 902mg,Sanofi,878656,Vitamíny,Vitamíny
+968,Sanorin 648mg,Zentiva,318380,Dekongestiva,Vitamíny
+969,Stoptusin 252mg,Pfizer,981578,Dekongestiva,Imunita
+970,Neo-angin 647mg,Sandoz,698718,Mukolytika,Horečka
+971,Strepsils 219mg,Pfizer,839526,Analgetika,Dýchací cesty
+972,Hedelix 188mg,GSK,349186,Antiseptika,Dýchací cesty
+973,Panadol 637mg,Pfizer,283514,Dekongestiva,Bolest
+974,Celaskon 306mg,Teva,565331,Analgetika,Nosní obtíže
+975,Zyrtec 612mg,Sandoz,299452,Antiseptika,Dýchací cesty
+976,Celaskon 435mg,Sandoz,906859,Antipyretika,Alergie
+977,Magne B6 137mg,GSK,506416,Antitusika,Bolest
+978,Theraflu 145mg,Novartis,191306,Antiseptika,Bolest
+979,Levopront 633mg,Pfizer,123573,Vitamíny,Alergie
+980,ACC Long 305mg,Krka,400487,Dekongestiva,Nosní obtíže
+981,Tantum Verde 220mg,Pfizer,256574,Vitamíny,Kašel
+982,Paralen 737mg,Roche,639031,Antihistaminika,Vitamíny
+983,Sanorin 426mg,Pfizer,248433,Antihistaminika,Horečka
+984,Stoptusin 418mg,Novartis,455194,Antiseptika,Bolest
+985,Calcium 129mg,GSK,808308,Antitusika,Imunita
+986,Ibalgin 188mg,Sanofi,510954,Antiseptika,Vitamíny
+987,Theraflu 440mg,Krka,847529,Antitusika,Nosní obtíže
+988,Septolete 234mg,Teva,952337,Antiseptika,Kašel
+989,Prospan 417mg,GSK,593403,Antihistaminika,Horečka
+990,Zodac 731mg,Pfizer,481105,Antipyretika,Vitamíny
+991,Vitamin D 981mg,Bayer,575302,Analgetika,Kašel
+992,Olynth 215mg,Bayer,601904,Antipyretika,Dýchací cesty
+993,Celaskon 456mg,Novartis,702593,Antitusika,Imunita
+994,B-komplex 831mg,Teva,441700,Antitusika,Dýchací cesty
+995,Sanorin 572mg,Sanofi,719222,Antihistaminika,Alergie
+996,Sanorin 262mg,GSK,502460,Dekongestiva,Alergie
+997,B-komplex 810mg,Novartis,552092,Dekongestiva,Alergie
+998,Aspirin 778mg,Teva,875283,Antiseptika,Kašel
+999,Septolete 710mg,GSK,441184,Antitusika,Nosní obtíže
+1000,Aspirin 415mg,Sanofi,172989,Antitusika,Imunita
