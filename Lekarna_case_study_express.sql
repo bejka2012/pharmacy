@@ -5,6 +5,8 @@ SELECT * FROM fact_prodej
 SELECT * FROM fact_prodej_12_24
 
 
+
+
 SELECT *
 FROM fact_prodej
 JOIN dim_lekarna ON fact_prodej.ID_lekarna = dim_lekarna.ID_lekarna
@@ -39,7 +41,7 @@ SELECT
         prodejni_cena_CZK,
         marze_CZK,
         trzba_CZK
-FROM fact_prodej_12_24
+FROM fact_prodej_
 
 
 

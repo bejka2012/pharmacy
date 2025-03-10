@@ -1,10 +1,8 @@
-SELECT * FROM fact_prodej
-
 SELECT * FROM dim_lekarna
 SELECT * FROM dim_vedouci
 SELECT * FROM dim_zbozi
 SELECT * FROM fact_prodej
-SELECT * FROM fact_prodej_12_24
+SELECT * FROM fact_prodej_2024
 
 
 
@@ -43,11 +41,11 @@ SELECT
         prodejni_cena_CZK,
         marze_CZK,
         trzba_CZK
-FROM fact_prodej_
+FROM fact_prodej_2024
 
 
 
-DROP TABLE fact_prodej_1_25
+DROP TABLE fact_prodej
 
 SELECT *
 FROM fact_prodej
@@ -57,7 +55,7 @@ WHERE
 
 DELETE FROM fact_prodej
 WHERE  
-	MONTH(datum) = 12 AND
+	MONTH(datum) = 11 AND
 	YEAR(datum) = 2024
 
 DELETE FROM fact_prodej
